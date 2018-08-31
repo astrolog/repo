@@ -1,0 +1,14 @@
+      Hosting Account ID: 	astrolog-001
+      First Website Root Folder Name: 	cal
+      First Website Type: 	ASP.NET
+      Hosting Plan Name: 	W60-EU
+       	
+       	Please Record The Following FTP Infomation:
+      FTP Address : 	FTP-EU.SITE4NOW.NET
+      FTP Username : 	astrolog-001
+      FTP Password : 	(same as your control panel password)
+      FTP Directory 	\
+
+
+META KEYWORDS to be added on a page:
+AUDX,CADX,CHFX,EURX,GBPX,JPYX,NZDX,USDX,  Economic Calendar, news statistics, forex,  upcoming macroeconomic events, news prediction indicator chart, news strength indicator, economic events stats, currency prediction
