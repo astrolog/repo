@@ -12,3 +12,12 @@
 
 META KEYWORDS to be added on a page:
 AUDX,CADX,CHFX,EURX,GBPX,JPYX,NZDX,USDX,  Economic Calendar, news statistics, forex,  upcoming macroeconomic events, news prediction indicator chart, news strength indicator, economic events stats, currency prediction
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9910612885528620",
+    enable_page_level_ads: true
+  });
+</script>
