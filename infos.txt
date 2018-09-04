@@ -6,7 +6,7 @@
        	Please Record The Following FTP Infomation:
       FTP Address : 	FTP-EU.SITE4NOW.NET
       FTP Username : 	astrolog-001
-      FTP Password : 	(same as your control panel password)
+      FTP Password : 	forexpower5
       FTP Directory 	\
 
 
