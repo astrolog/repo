@@ -493,7 +493,7 @@
 2018-09-07 16:45|USD|ECRI Weekly Index|   |148.2||147.3|||128%|109%||1|1536338700000|4549|
 2018-09-07 16:45|USD|FOMC Member Kaplan|   ||||||||||1536338700000|4667|
 2018-09-07 17:00|USD|ECRI Weekly Index|   |||147.3||||||1|1536339600000|4549|
-2018-09-07 17:00|USD|U.S. Baker Hughes Oil Rig Count|   |||862.0||||||0|1536339600000|5034|
+2018-09-07 17:00|USD|U.S. Baker Hughes Oil Rig Count|   |860.0||862.0|||-28%|110%||0|1536339600000|5034|
 2018-09-07 19:30|AUD|CFTC AUD speculative net positions|   |||-44.6|K|||||-1|1536348600000|461|
 2018-09-07 19:30|CAD|CFTC CAD speculative net positions|   |||-24.8|K|||||-8|1536348600000|875|
 2018-09-07 19:30|CHF|CFTC CHF speculative net positions|   |||-44.7|K|||||5|1536348600000|1035|
@@ -507,13 +507,13 @@
 2018-09-07 19:30|USD|CFTC Gold speculative net positions|   |||-3.1|K|||||0|1536348600000|4425|
 2018-09-07 19:30|USD|CFTC S&P 500 speculative net positions|   |||144.5|K|||||2|1536348600000|4429|
 2018-09-07 19:30|USD|CFTC Silver speculative net positions|   |||-16.6|K|||||2|1536348600000|4431|
-2018-09-07 19:30|USD|U.S. Baker Hughes Oil Rig Count|   |||862.0||||||0|1536348600000|5034|
+2018-09-07 19:30|USD|U.S. Baker Hughes Oil Rig Count|   |860.0||862.0|||-28%|110%||0|1536348600000|5034|
 2018-09-07 22:45|NZD|Manufacturing sales|   |||1.4|%|||||0|1536360300000|3927|
 2018-09-07 23:50|JPY|Gross Domestic Product|QoQ||||%|||||0|1536364200000|3438|
 2018-09-07 23:50|JPY|Gross Domestic Product Annualized|   ||||%|||||0|1536364200000|3440|
 2018-09-07 23:50|JPY|Gross Domestic Product Deflator|YoY||||%|||||0|1536364200000|3441|
-2018-09-08 00:00|CNY|Exports|YoY|||6.0|%||||-81%||1536364800000|1217|
-2018-09-08 00:00|CNY|Imports|YoY|||20.9|%||||-330%||1536364800000|1251|
+2018-09-08 00:00|CNY|Exports|YoY||10.1|12.2|%||||-81%||1536364800000|1217|
+2018-09-08 00:00|CNY|Imports|YoY||18.7|27.3|%||||-330%||1536364800000|1251|
 2018-09-08 00:00|CNY|Trade Balance|day||183.0|177.0|B||||7%||1536364800000|1294|
 2018-09-08 00:00|CNY|Trade Balance CNY|   |||176.96|B||||||1536364800000|1297|
 2018-09-08 00:00|CNY|USD-Denominated Trade Balance|day||31.5|28.1|B||||30%||1536364800000|1304|
