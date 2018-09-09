@@ -498,10 +498,15 @@
 2018-09-07 19:30|CAD|CFTC CAD speculative net positions|   |||-24.8|K|||||-8|1536348600000|875|
 2018-09-07 19:30|CHF|CFTC CHF speculative net positions|   |||-44.7|K|||||5|1536348600000|1035|
 2018-09-07 19:30|EUR|CFTC EUR speculative net positions|   ||||K|||||2|1536348600000|1524|
+2018-09-07 19:30|GBP|CFTC GBP speculative net positions|   |-69.6|||K|||||0||2700|
 2018-09-07 19:30|GBP|CFTC GBP speculative net positions|   |||-76.9|K|||||0|1536348600000|2700|
+2018-09-07 19:30|JPY|CFTC JPY speculative net positions|   |-51.9|||K|||||1||3365|
 2018-09-07 19:30|JPY|CFTC JPY speculative net positions|   |||-46.0|K|||||1|1536348600000|3365|
 2018-09-07 19:30|NZD|CFTC NZD speculative net positions|   |||-23.9|K|||||1|1536348600000|3830|
 2018-09-07 19:30|RUB|CFTC RUB speculative positions|   |||5.0|K||||||1536348600000|4119|
+2018-09-07 19:30|USD|CFTC Crude Oil speculative net positions|   |565.7|||K|||||-3||4421|
+2018-09-07 19:30|USD|CFTC Gold speculative net positions|   |-13.5|||K|||||0||4425|
+2018-09-07 19:30|USD|CFTC S&P 500 speculative net positions|   |162.2|||K|||||2||4429|
 2018-09-07 19:30|USD|CFTC Copper speculative net positions|   |||0.3|K|||||1|1536348600000|4418|
 2018-09-07 19:30|USD|CFTC Crude Oil speculative net positions|   |||550.3|K|||||-3|1536348600000|4421|
 2018-09-07 19:30|USD|CFTC Gold speculative net positions|   |||-3.1|K|||||0|1536348600000|4425|
