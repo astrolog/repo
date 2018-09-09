@@ -494,25 +494,18 @@
 2018-09-07 16:45|USD|FOMC Member Kaplan|   ||||||||||1536338700000|4667|
 2018-09-07 17:00|USD|ECRI Weekly Index|   |||147.3||||||1|1536339600000|4549|
 2018-09-07 17:00|USD|U.S. Baker Hughes Oil Rig Count|   |860.0||862.0|||-28%|110%||0|1536339600000|5034|
-2018-09-07 19:30|AUD|CFTC AUD speculative net positions|   |-44.0|||K|||||-1||461|
-2018-09-07 19:30|AUD|CFTC AUD speculative net positions|   |||-44.6|K|||||-1|1536348600000|461|
+2018-09-07 19:30|AUD|CFTC AUD speculative net positions|   |-44.0||-44.6|K|||-297%||-1|1536348600000|461|
 2018-09-07 19:30|CAD|CFTC CAD speculative net positions|   |||-24.8|K|||||-8|1536348600000|875|
 2018-09-07 19:30|CHF|CFTC CHF speculative net positions|   |||-44.7|K|||||5|1536348600000|1035|
-2018-09-07 19:30|EUR|CFTC EUR speculative net positions|   |8.0|||K|||||2||1524|
-2018-09-07 19:30|EUR|CFTC EUR speculative net positions|   ||||K|||||2|1536348600000|1524|
-2018-09-07 19:30|GBP|CFTC GBP speculative net positions|   |-69.6|||K|||||0||2700|
-2018-09-07 19:30|GBP|CFTC GBP speculative net positions|   |||-76.9|K|||||0|1536348600000|2700|
-2018-09-07 19:30|JPY|CFTC JPY speculative net positions|   |-51.9|||K|||||1||3365|
-2018-09-07 19:30|JPY|CFTC JPY speculative net positions|   |||-46.0|K|||||1|1536348600000|3365|
+2018-09-07 19:30|EUR|CFTC EUR speculative net positions|   |8.0|||K|||-12%||2|1536348600000|1524|
+2018-09-07 19:30|GBP|CFTC GBP speculative net positions|   |-69.6||-76.9|K|||268%||0|1536348600000|2700|
+2018-09-07 19:30|JPY|CFTC JPY speculative net positions|   |-51.9||-46.0|K|||129%||1|1536348600000|3365|
 2018-09-07 19:30|NZD|CFTC NZD speculative net positions|   |||-23.9|K|||||1|1536348600000|3830|
 2018-09-07 19:30|RUB|CFTC RUB speculative positions|   |||5.0|K||||||1536348600000|4119|
-2018-09-07 19:30|USD|CFTC Crude Oil speculative net positions|   |565.7|||K|||||-3||4421|
-2018-09-07 19:30|USD|CFTC Gold speculative net positions|   |-13.5|||K|||||0||4425|
-2018-09-07 19:30|USD|CFTC S&P 500 speculative net positions|   |162.2|||K|||||2||4429|
 2018-09-07 19:30|USD|CFTC Copper speculative net positions|   |||0.3|K|||||1|1536348600000|4418|
-2018-09-07 19:30|USD|CFTC Crude Oil speculative net positions|   |||550.3|K|||||-3|1536348600000|4421|
-2018-09-07 19:30|USD|CFTC Gold speculative net positions|   |||-3.1|K|||||0|1536348600000|4425|
-2018-09-07 19:30|USD|CFTC S&P 500 speculative net positions|   |||144.5|K|||||2|1536348600000|4429|
+2018-09-07 19:30|USD|CFTC Crude Oil speculative net positions|   |565.7||550.3|K|||141%||-3|1536348600000|4421|
+2018-09-07 19:30|USD|CFTC Gold speculative net positions|   |-13.5||-3.1|K|||-9%||0|1536348600000|4425|
+2018-09-07 19:30|USD|CFTC S&P 500 speculative net positions|   |162.2||144.5|K|||528%||2|1536348600000|4429|
 2018-09-07 19:30|USD|CFTC Silver speculative net positions|   |||-16.6|K|||||2|1536348600000|4431|
 2018-09-07 19:30|USD|U.S. Baker Hughes Oil Rig Count|   |860.0||862.0|||-28%|110%||0|1536348600000|5034|
 2018-09-07 22:45|NZD|Manufacturing sales|   |||1.4|%|||||0|1536360300000|3927|
