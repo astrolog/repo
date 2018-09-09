@@ -8,8 +8,7 @@
       FTP Username : 	astrolog-001
       FTP Password : 	forexpower55
       FTP Directory 	\
-
-
+ 
 META KEYWORDS to be added on a page:
 AUDX,CADX,CHFX,EURX,GBPX,JPYX,NZDX,USDX,  Economic Calendar, news statistics, forex,  upcoming macroeconomic events, news prediction indicator chart, news strength indicator, economic events stats, currency prediction
 
