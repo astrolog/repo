@@ -628,8 +628,8 @@
 2018-09-10 15:30|USD|6-Month Bill Auction|   |2.265||2.24|%||125%|622%||-1|1536593400000|
 2018-09-10 15:30|USD|CB Employment Trends Index|   |110.9||109.6|||194%|99%||2|1536593400000|
 2018-09-10 16:55|GBP|NIESR GDP Estimate|QoQ|0.6|0.7|0.6|%||0%|181%||-2|1536598500000|
-2018-09-10 19:00|USD|Consumer Credit|MoM||14.5|10.2|B||||165%|1|1536606000000|
-2018-09-10 19:00|USD|Consumer Credit Change|   ||12.75|10.21|B||||102%|3|1536606000000|
+2018-09-10 19:00|USD|Consumer Credit|MoM|16.6|14.5|8.5|B|53%|147%|155%|165%|1|1536606000000|
+2018-09-10 19:00|USD|Consumer Credit Change|   |16.64|12.833|9.627|B|91%|142%|159%|135%|3|1536606000000|
 2018-09-10 22:45|NZD|Electronic Card Retail Sales|MoM|||0.7|%|||||2|1536619500000|
 2018-09-10 22:45|NZD|Electronic Card Retail Sales|YoY|||4.5|%|||||1|1536619500000|
 2018-09-10 22:45|USD|6-Month Bill Auction|   |2.265||2.24|%||125%|622%||-1|1536619500000|
@@ -1032,7 +1032,7 @@
 2018-09-18 09:30|GBP|DCLG House Price Index|YoY|||3.0|%|||||3|1537263000000|
 2018-09-18 12:00|HUF|MNB Interest Rate Decision|   |||0.9|%||||||1537272000000|
 2018-09-18 12:00|PLN|Industrial Output|YoY||||%||||||1537272000000|
-2018-09-18 12:00|PLN|Producer Price Index|YoY||3.6|3.4|%||||||1537272000000|
+2018-09-18 12:00|PLN|Producer Price Index|YoY||3.6|3.4|%||||51%||1537272000000|
 2018-09-18 12:00|PLN|Retail Sales|YoY|||9.3|%||||||1537272000000|
 2018-09-18 12:30|CAD|Manufacturing Shipments|MoM|||1.1|%|||||1|1537273800000|
 2018-09-18 12:55|USD|Redbook index|YoY||||%|||||-6|1537275300000|
@@ -1064,6 +1064,7 @@
 2018-09-19 00:00|JPY|BOJ Press Conference|   ||||||||||1537315200000|
 2018-09-19 00:00|JPY|Monetary Policy Statement|day||||||||||1537315200000|
 2018-09-19 00:30|AUD|Westpac Leading Index|MoM||||%|||||-2|1537317000000|
+2018-09-19 01:30|AUD|RBA Assistant Governor Kent|   |||||||||0|1537320600000|
 2018-09-19 02:00|JPY|BoJ Interest Rate Decision|   |||-0.1|%|||||0|1537322400000|
 2018-09-19 02:00|JPY|BoJ Monetary Policy Statement|   ||||R||||||1537322400000|
 2018-09-19 05:45|CHF|SECO Economic Forecasts|   ||||R|||||0|1537335900000|
@@ -1082,17 +1083,17 @@
 2018-09-19 08:30|GBP|Producer Price Index - Input|YoY|||10.9|%|||||0|1537345800000|
 2018-09-19 08:30|GBP|Producer Price Index - Output|YoY|||3.1|%|||||0|1537345800000|
 2018-09-19 08:30|GBP|Producer Price Index - Output|MoM|||0.0|%|||||3|1537345800000|
-2018-09-19 08:30|GBP|Retail Price Index|YoY|||3.2|%|||||0|1537345800000|
+2018-09-19 08:30|GBP|Retail Price Index|YoY||3.4|3.2|%||||100%|0|1537345800000|
 2018-09-19 09:00|EUR|Construction Output s.a|MoM|||0.2|%|||||1|1537347600000|
 2018-09-19 09:00|EUR|Construction Output w.d.a|YoY|||2.6|%|||||3|1537347600000|
 2018-09-19 12:30|USD|Building Permits|   ||||M|||||2|1537360200000|
-2018-09-19 12:30|USD|Building Permits Change|   |||1.406|%|||||6|1537360200000|
-2018-09-19 12:30|USD|Current Account|   |||-124.1|B|||||5|1537360200000|
-2018-09-19 12:30|USD|Housing Starts|MoM|||1.168|M|||||-3|1537360200000|
+2018-09-19 12:30|USD|Building Permits Change|   ||1.31|1.406|%||||0%|6|1537360200000|
+2018-09-19 12:30|USD|Current Account|   ||-129.0|-124.1|B||||-59%|5|1537360200000|
+2018-09-19 12:30|USD|Housing Starts|MoM||1.22|1.168|M||||208%|-3|1537360200000|
 2018-09-19 12:30|USD|Housing Starts|   ||||M|||||-6|1537360200000|
 2018-09-19 12:30|USD|Housing Starts Change|   |||0.9|%|||||0|1537360200000|
 2018-09-19 13:00|CHF|SNB Quarterly Bulletin|   ||||R|||||0|1537362000000|
-2018-09-19 13:00|RUB|Unemployment Rate|   |||4.7|%||||||1537362000000|
+2018-09-19 13:00|RUB|Unemployment Rate|   ||4.7|4.7|%||||0%||1537362000000|
 2018-09-19 14:30|USD|EIA Crude Oil Stocks change|   ||||M|||||3|1537367400000|
 2018-09-19 17:00|BRL|Interest Rate Decision|   ||||%||||||1537376400000|
 2018-09-19 22:45|NZD|GDP|QoQ||||%|||||3|1537397100000|
@@ -1105,6 +1106,7 @@
 2018-09-19 23:50|JPY|Foreign Investments in Japanese Stocks|   ||||B|||||0|1537401000000|
 2018-09-20 00:00|All|OPEC-JMMC Meetings|day||||||||||1537401600000|
 2018-09-20 00:00|CAD|BOC Review|day||||||||||1537401600000|
+2018-09-20 00:00|EUR|10-y Obligaciones Auction Spain|   |||1.432|%|||||0|1537401600000|
 2018-09-20 00:00|EUR|3-y Bond Auction Spain|   |||-0.149|%|||||-1|1537401600000|
 2018-09-20 00:30|AUD|Westpac Leading Index|MoM|||0.0|%|||||-2|1537403400000|
 2018-09-20 01:30|AUD|RBA Bulletin|   ||||R|||||0|1537407000000|
@@ -1125,9 +1127,10 @@
 2018-09-20 08:00|EUR|Current Account Greece|YoY|||0.21|B|||||-1|1537430400000|
 2018-09-20 08:30|GBP|Retail Sales|YoY|||3.5|%|||||1|1537432200000|
 2018-09-20 08:30|GBP|Retail Sales|MoM|||0.7|%|||||1|1537432200000|
-2018-09-20 08:30|GBP|Retail Sales ex-Fuel|YoY|||3.7|%|||||-1|1537432200000|
-2018-09-20 08:30|GBP|Retail Sales ex-Fuel|MoM|||0.9|%|||||4|1537432200000|
+2018-09-20 08:30|GBP|Retail Sales ex-Fuel|YoY||2.8|3.7|%||||-128%|-1|1537432200000|
+2018-09-20 08:30|GBP|Retail Sales ex-Fuel|MoM||0.1|0.9|%||||-88%|4|1537432200000|
 2018-09-20 08:30|HKD|Consumer Price Index|   |||2.4|%||||||1537432200000|
+2018-09-20 08:40|EUR|5-y Bond Auction Spain|   |||0.41|%|||||0|1537432800000|
 2018-09-20 09:00|NOK|Norges Bank Interest Rate Decision|   |||0.5|%||||||1537434000000|
 2018-09-20 10:00|GBP|CBI Industrial Trends Survey - Orders|MoM|||||||||3|1537437600000|
 2018-09-20 12:30|CAD|ADP Employment Change|   |||11.6|K|||||0|1537446600000|
@@ -1145,7 +1148,7 @@
 2018-09-20 14:00|EUR|Consumer Confidence|   |||-1.9||||||-1|1537452000000|
 2018-09-20 14:00|USD|CB Leading Index|MoM||||%|||||2|1537452000000|
 2018-09-20 14:00|USD|Existing Home Sales|   ||||M|||||-1|1537452000000|
-2018-09-20 14:00|USD|Existing Home Sales Change|MoM|||2.32|%|||||-4|1537452000000|
+2018-09-20 14:00|USD|Existing Home Sales Change|MoM||2.97|2.32|%||||22%|-4|1537452000000|
 2018-09-20 14:30|USD|EIA Natural Gas Storage change|   ||||B|||||2|1537453800000|
 2018-09-20 21:00|KRW|Producer Price Index Growth|YoY|||2.9|%||||||1537477200000|
 2018-09-20 21:00|KRW|Producer Price Index Growth|   |||0.4|%||||||1537477200000|
@@ -1154,21 +1157,27 @@
 2018-09-20 23:30|JPY|National Consumer Price Index|YoY|||0.9|%|||||0|1537486200000|
 2018-09-20 23:30|JPY|National Core CPI|YoY||||%|||||0|1537486200000|
 2018-09-20 23:30|JPY|National CPI Ex Food  Energy|YoY|||0.3|%|||||1|1537486200000|
-2018-09-20 23:30|JPY|National CPI Ex-Fresh Food|YoY|||0.8|%|||||0|1537486200000|
+2018-09-20 23:30|JPY|National CPI Ex-Fresh Food|YoY||0.9|0.8|%||||100%|0|1537486200000|
 2018-09-21 00:00|AUD|RBA Annual|   ||||R|||||0|1537488000000|
 2018-09-21 00:30|JPY|Nikkei Manufacturing PMI|   |||52.5|P|||||0|1537489800000|
+2018-09-21 03:00|NZD|Credit Card Spending|YoY|||3.2|%|||||0|1537498800000|
 2018-09-21 04:30|JPY|All Industries Activity Index|MoM|||-0.8|%|||||0|1537504200000|
+2018-09-21 06:45|EUR|Gross Domestic Product France|QoQ||0.2|0.2|%||||0%|1|1537512300000|
 2018-09-21 07:00|EUR|French Markit Composite PMI|   |||54.9|P|||||3|1537513200000|
 2018-09-21 07:00|EUR|Markit Manufacturing PMI France|   |||53.5|P|||||4|1537513200000|
 2018-09-21 07:00|EUR|Markit Services PMI France|   |||55.4|P|||||5|1537513200000|
+2018-09-21 07:15|EUR|French Markit Composite PMI|   |||54.9|P|||||3|1537514100000|
+2018-09-21 07:15|EUR|Markit Manufacturing PMI France|   ||53.4|53.5|P||||-50%|4|1537514100000|
+2018-09-21 07:15|EUR|Markit Services PMI France|   |||55.4|P|||||5|1537514100000|
 2018-09-21 07:30|EUR|Markit Manufacturing PMI Germany|   |||55.9|P|||||3|1537515000000|
 2018-09-21 07:30|EUR|Markit PMI Composite Germany|   |||55.6|P|||||2|1537515000000|
 2018-09-21 07:30|EUR|Markit Services PMI Germany|   |||55.0|P|||||3|1537515000000|
-2018-09-21 08:00|EUR|Markit Composite PMI|   |||54.5|P|||||-3|1537516800000|
+2018-09-21 08:00|EUR|Markit Composite PMI|   ||54.5|54.5|P||||0%|-3|1537516800000|
 2018-09-21 08:00|EUR|Markit Manufacturing PMI|   |||54.6|P|||||4|1537516800000|
-2018-09-21 08:00|EUR|Markit Services PMI|   |||54.4|P|||||-5|1537516800000|
-2018-09-21 08:30|EUR|Gross Domestic Product n.s.a|YoY|||2.9|%|||||1|1537518600000|
-2018-09-21 08:30|EUR|Gross Domestic Product s.a|QoQ|||0.7|%|||||3|1537518600000|
+2018-09-21 08:00|EUR|Markit Services PMI|   ||54.4|54.4|P||||0%|-5|1537516800000|
+2018-09-21 08:00|PLN|Retail Sales|YoY||8.4|9.3|%||||-112%||1537516800000|
+2018-09-21 08:30|EUR|Gross Domestic Product n.s.a|YoY||2.8|2.9|%|||||1|1537518600000|
+2018-09-21 08:30|EUR|Gross Domestic Product s.a|QoQ||0.7|0.7|%||||0%|3|1537518600000|
 2018-09-21 08:30|GBP|Public Sector Net Borrowing|   |||-2.872|B|||||0|1537518600000|
 2018-09-21 09:00|EUR|Markit Composite PMI|   ||||P|||||-3|1537520400000|
 2018-09-21 09:00|EUR|Markit Services PMI|   ||||P|||||-5|1537520400000|
@@ -1186,11 +1195,11 @@
 2018-09-21 12:30|CAD|Consumer Price Index|MoM|||0.5|%|||||4|1537533000000|
 2018-09-21 12:30|CAD|Core Retail Sales|MoM||||%|||||6|1537533000000|
 2018-09-21 12:30|CAD|Median CPI|YoY||||%|||||0|1537533000000|
-2018-09-21 12:30|CAD|Retail Sales|MoM||||%|||||3|1537533000000|
+2018-09-21 12:30|CAD|Retail Sales|MoM|||-0.2|%|||||3|1537533000000|
 2018-09-21 12:30|CAD|Retail Sales ex Autos|MoM|||-0.1|%|||||3|1537533000000|
 2018-09-21 12:30|CAD|Trimmed CPI|YoY||||%|||||0|1537533000000|
 2018-09-21 13:00|MXN|Retail Sales|MoM|||0.0|%||||||1537534800000|
-2018-09-21 13:00|MXN|Retail Sales|YoY|||3.7|%||||||1537534800000|
+2018-09-21 13:00|MXN|Retail Sales|YoY||3.1|3.7|%||||-54%||1537534800000|
 2018-09-21 13:45|USD|Markit Composite PMI|   |||54.7|P|||||0|1537537500000|
 2018-09-21 13:45|USD|Markit Manufacturing PMI|   |||54.7|P|||||2|1537537500000|
 2018-09-21 13:45|USD|Markit Services PMI|   |||54.8|P|||||2|1537537500000|
