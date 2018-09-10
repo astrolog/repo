@@ -686,6 +686,7 @@
 2018-09-11 12:15|CAD|Housing Starts s.a|YoY||214.75|206.2|K||||377%|1|1536668100000|
 2018-09-11 12:15|ZAR|Manufacturing Production|MoM||1.0|0.3|%||||50%||1536668100000|
 2018-09-11 12:55|CAD|Housing Starts s.a|YoY||210.3|206.3|K||||114%|1|1536670500000|
+2018-09-11 12:55|USD|Redbook index|MoM|||0.8|%|||||0||
 2018-09-11 12:55|USD|Redbook index|YoY|||6.5|%|||||-6|1536670500000|
 2018-09-11 12:55|USD|Redbook index|MoM|||0.8|%|||||0|1536670500000|
 2018-09-11 13:00|EUR|French Non-Farm Payrolls|QoQ||||%|||||0|1536670800000|
@@ -693,6 +694,7 @@
 2018-09-11 13:00|MXN|Industrial Output|MoM|||0.3|%||||||1536670800000|
 2018-09-11 13:00|RUB|Foreign Trade|   |||15.555|B||||||1536670800000|
 2018-09-11 13:00|RUB|Trade Balance|   ||14.4|15.56|B||||-82%||1536670800000|
+2018-09-11 13:00|USD|Redbook index|YoY|||6.5|%|||||-6||
 2018-09-11 13:00|USD|Redbook index|MoM|||0.8|%|||||0|1536670800000|
 2018-09-11 14:00|RUB|Trade Balance|   ||14.4|15.56|B||||-82%||1536674400000|
 2018-09-11 14:00|USD|Final Wholesale Inventories|MoM||0.7|0.7|%||||-266%|1|1536674400000|
@@ -1238,7 +1240,7 @@
 2018-09-24 08:00|EUR|Markit Manufacturing PMI|   ||||P|||||4|1537776000000|
 2018-09-24 08:00|EUR|Markit Services PMI|   ||||P|||||-5|1537776000000|
 2018-09-24 08:30|GBP|FPC Statement|   ||||R||||||1537777800000|
-2018-09-24 10:00|GBP|CBI Industrial Trends Survey - Orders|MoM|||||||||3||
+2018-09-24 10:00|GBP|CBI Industrial Trends Survey - Orders|MoM|||||||||3|1537783200000|
 2018-09-24 11:30|TRY|Capacity Utilization|   |||77.8|%||||||1537788600000|
 2018-09-24 11:30|TRY|Manufacturing Confidence|   |||96.4|||||||1537788600000|
 2018-09-24 12:00|PLN|M3 Money Supply|YoY|||7.3|%||||||1537790400000|
@@ -1295,7 +1297,7 @@
 2018-09-26 05:00|SGD|Industrial Production|YoY|||6.0|%||||||1537938000000|
 2018-09-26 06:00|EUR|Consumer Confidence Finland|   |||21.5||||||0|1537941600000|
 2018-09-26 06:00|EUR|Industrial Confidence Finland|   |||13.0||||||4|1537941600000|
-2018-09-26 06:45|EUR|Consumer Confidence France|   |||97.0||||||2||
+2018-09-26 06:45|EUR|Consumer Confidence France|   |||97.0||||||2|1537944300000|
 2018-09-26 07:00|EUR|Non-monetary policys ECB meeting|   |||||||||0|1537945200000|
 2018-09-26 07:00|NOK|Labour Force Survey|   |||3.9|%||||||1537945200000|
 2018-09-26 07:00|TRY|Economic confidence index|   |||83.9|||||||1537945200000|
@@ -1330,9 +1332,8 @@
 2018-09-27 00:00|EUR|10-y Bond Auction Italy|   |||3.25|%|||||1|1538006400000|
 2018-09-27 00:00|EUR|German Prelim CPI|day||||%|||||0|1538006400000|
 2018-09-27 00:00|EUR|Italian 10-y Bond Auction|day|||||||||0|1538006400000|
-2018-09-27 06:00|EUR|Gfk Consumer Confidence Survey Germany|   |||10.5||||||0||
 2018-09-27 06:00|EUR|Consumer Confidence Finland|   |||21.5||||||0|1538028000000|
-2018-09-27 06:00|EUR|Gfk Consumer Confidence Survey Germany|   |||||||||0|1538028000000|
+2018-09-27 06:00|EUR|Gfk Consumer Confidence Survey Germany|   |||10.5||||||0|1538028000000|
 2018-09-27 06:00|EUR|Industrial Confidence Finland|   |||13.0||||||4|1538028000000|
 2018-09-27 06:00|GBP|Nationwide Housing Prices n.s.a|YoY|||2.0|%|||||0|1538028000000|
 2018-09-27 06:00|GBP|Nationwide Housing Prices s.a|MoM|||-0.5|%|||||4|1538028000000|
@@ -1355,19 +1356,19 @@
 2018-09-27 08:00|SEK|Consumer Confidence|MoM|||102.6|||||||1538035200000|
 2018-09-27 08:30|EUR|Business Confidence Portugal|   |||2.5||||||-2|1538037000000|
 2018-09-27 08:30|EUR|Consumer Confidence Portugal|   |||-0.5||||||0|1538037000000|
-2018-09-27 09:00|EUR|Producer Price Index Italy|MoM|||0.3|%|||||0||
-2018-09-27 09:00|EUR|Producer Price Index Italy|YoY|||3.2|%|||||0||
 2018-09-27 09:00|EUR|Business and Consumer Survey|   |||111.6||||||3|1538038800000|
 2018-09-27 09:00|EUR|Business Climate|   |||1.22||||||2|1538038800000|
 2018-09-27 09:00|EUR|Consumer Confidence|   |||||||||-1|1538038800000|
 2018-09-27 09:00|EUR|Industrial Confidence|   |||5.5||||||2|1538038800000|
+2018-09-27 09:00|EUR|Producer Price Index Italy|MoM|||0.3|%|||||0|1538038800000|
+2018-09-27 09:00|EUR|Producer Price Index Italy|YoY|||3.2|%|||||0|1538038800000|
 2018-09-27 09:00|EUR|Purchasing Manager Index Austria|   |||||||||4|1538038800000|
 2018-09-27 09:00|EUR|Services Sentiment|   |||14.7||||||4|1538038800000|
 2018-09-27 09:00|ISK|Consumer Price Index|MoM|||0.2|%||||||1538038800000|
 2018-09-27 09:00|ISK|Consumer Price Index|YoY|||2.6|%||||||1538038800000|
 2018-09-27 09:30|ZAR|Producer Price Index|MoM|||0.6|%||||||1538040600000|
 2018-09-27 09:30|ZAR|Producer Price Index|YoY|||6.1|%||||||1538040600000|
-2018-09-27 10:00|GBP|CBI Distributive Trades Survey - Realized|MoM|||29.0|%|||||-1||
+2018-09-27 10:00|GBP|CBI Distributive Trades Survey - Realized|MoM|||29.0|%|||||-1|1538042400000|
 2018-09-27 11:00|BRL|IGP-M Inflation Index|MoM|||0.7|%||||||1538046000000|
 2018-09-27 11:00|EUR|Consumer Price Index Belgium|MoM|||0.14|%|||||-1|1538046000000|
 2018-09-27 11:00|EUR|Consumer Price Index Belgium|YoY|||2.24|%|||||3|1538046000000|
@@ -1419,31 +1420,29 @@
 2018-09-28 01:30|AUD|Private Sector Credit|YoY|||4.4|%|||||6|1538098200000|
 2018-09-28 01:30|AUD|Private Sector Credit|MoM|||0.4|%|||||1|1538098200000|
 2018-09-28 01:45|CNY|Caixin Flash Manufacturing PMI|   |||50.6|P||||||1538099100000|
-2018-09-28 05:00|JPY|Annualized Housing Starts|   |||0.985|M|||||0||
-2018-09-28 05:00|JPY|Construction Orders|YoY|||-9.3|%|||||0||
-2018-09-28 05:00|JPY|Housing Starts|YoY|||-0.7|%|||||1||
+2018-09-28 05:00|JPY|Annualized Housing Starts|   |||0.985|M|||||0|1538110800000|
 2018-09-28 05:00|JPY|BOJ Core CPI|YoY||||%|||||0|1538110800000|
-2018-09-28 05:00|JPY|Housing Starts|YoY||||%|||||1|1538110800000|
+2018-09-28 05:00|JPY|Construction Orders|YoY|||-9.3|%|||||0|1538110800000|
+2018-09-28 05:00|JPY|Housing Starts|YoY|||-0.7|%|||||1|1538110800000|
 2018-09-28 06:00|DKK|Unemployment Rate|   |||3.2|%||||||1538114400000|
-2018-09-28 06:00|EUR|Import Price Index Germany|YoY|||5.0|%|||||0||
-2018-09-28 06:00|EUR|Import Price Index Germany|MoM|||-0.2|%|||||1||
-2018-09-28 06:00|EUR|Import Price Index Germany|MoM||||%|||||1|1538114400000|
+2018-09-28 06:00|EUR|Import Price Index Germany|YoY|||5.0|%|||||0|1538114400000|
+2018-09-28 06:00|EUR|Import Price Index Germany|MoM|||-0.2|%|||||1|1538114400000|
 2018-09-28 06:00|EUR|Retail Sales Germany|MoM||||%|||||-1|1538114400000|
 2018-09-28 06:00|EUR|Wholesale Price Index Germany|MoM|||0.0|%|||||1|1538114400000|
 2018-09-28 06:00|EUR|Wholesale Price Index Germany|YoY|||3.5|%|||||-5|1538114400000|
 2018-09-28 06:00|NOK|Retail Sales|   |||0.7|%||||||1538114400000|
 2018-09-28 06:00|ZAR|M3 Money Supply|YoY|||6.0|%||||||1538114400000|
 2018-09-28 06:00|ZAR|Private Sector Credit|   |||5.41|%||||||1538114400000|
-2018-09-28 06:45|EUR|Consumer Price Index (EU norm) France|MoM||||%|||||1||
+2018-09-28 06:45|EUR|Consumer Price Index (EU norm) France|MoM||||%|||||1|1538117100000|
 2018-09-28 06:45|EUR|Consumer Price Index (EU norm) France|YoY||||%|||||1|1538117100000|
 2018-09-28 06:45|EUR|French Prelim CPI|MoM||||%|||||5|1538117100000|
 2018-09-28 06:45|EUR|Producer Prices France|MoM|||0.6|%|||||1|1538117100000|
 2018-09-28 07:00|CHF|KOF Economic Barometer|   |||100.3||||||-1|1538118000000|
-2018-09-28 07:00|EUR|Consumer Price Index Spain|YoY||||%|||||0||
-2018-09-28 07:00|EUR|Consumer Price Index Spain|MoM||||%|||||3||
-2018-09-28 07:00|EUR|Spanish HICP|MoM||||%|||||0||
+2018-09-28 07:00|EUR|Consumer Price Index Spain|YoY||||%|||||0|1538118000000|
+2018-09-28 07:00|EUR|Consumer Price Index Spain|MoM||||%|||||3|1538118000000|
 2018-09-28 07:00|EUR|Producer Price Index Austria|YoY|||3.4|%|||||5|1538118000000|
 2018-09-28 07:00|EUR|Producer Price Index Austria|MoM|||0.2|%|||||3|1538118000000|
+2018-09-28 07:00|EUR|Spanish HICP|MoM||||%|||||0|1538118000000|
 2018-09-28 07:00|EUR|Spanish HICP|YoY||||%|||||1|1538118000000|
 2018-09-28 07:00|HUF|Producer Price Index|YoY|||8.4|%||||||1538118000000|
 2018-09-28 07:00|TRY|Trade Balance|   |||-5.98|B||||||1538118000000|
@@ -1459,8 +1458,6 @@
 2018-09-28 08:30|GBP|High Street Lending|   ||||K|||||0|1538123400000|
 2018-09-28 08:30|GBP|Total Business Investment|YoY|||0.8|%|||||3|1538123400000|
 2018-09-28 08:30|GBP|Total Business Investment|QoQ|||0.5|%|||||0|1538123400000|
-2018-09-28 09:00|EUR|Consumer Price Index|YoY||||%|||||-3||
-2018-09-28 09:00|EUR|Consumer Price Index - Core|YoY||||%|||||4||
 2018-09-28 09:00|EUR|Consumer Price Index|YoY||||%|||||-3|1538125200000|
 2018-09-28 09:00|EUR|Consumer Price Index - Core|YoY||||%|||||4|1538125200000|
 2018-09-28 09:00|EUR|Consumer Price Index (EU Norm) Italy|MoM||||%|||||3|1538125200000|
@@ -1470,12 +1467,12 @@
 2018-09-28 09:00|EUR|Retail Sales Greece|YoY|||1.8|%|||||8|1538125200000|
 2018-09-28 09:00|NOK|Registered Unemployment n.s.a|   |||2.4|%||||||1538125200000|
 2018-09-28 09:00|NOK|Registered Unemployment s.a|   |||81.35|K||||||1538125200000|
-2018-09-28 10:00|EUR|Retail Sales Ireland|YoY|||5.5|%|||||0||
-2018-09-28 10:00|EUR|Retail Sales Ireland|MoM|||6.5|%|||||1||
+2018-09-28 10:00|EUR|Retail Sales Ireland|YoY|||5.5|%|||||0|1538128800000|
+2018-09-28 10:00|EUR|Retail Sales Ireland|MoM|||6.5|%|||||1|1538128800000|
 2018-09-28 10:00|INR|Federal Fiscal Deficit  INR|   |||5402.57|B||||||1538128800000|
-2018-09-28 11:30|INR|Bank Loan Growth (2wk)|   ||||%|||||||
-2018-09-28 11:30|INR|Infrastructure Output|YoY|||6.6|%|||||||
+2018-09-28 11:30|INR|Bank Loan Growth (2wk)|   ||||%||||||1538134200000|
 2018-09-28 11:30|INR|FX Reserves  USD|   ||||B||||||1538134200000|
+2018-09-28 11:30|INR|Infrastructure Output|YoY|||6.6|%||||||1538134200000|
 2018-09-28 12:00|BRL|Unemployment Rate|   |||12.3|%||||||1538136000000|
 2018-09-28 12:00|CLP|Industrial Production|YoY|||-1.4|%||||||1538136000000|
 2018-09-28 12:00|CLP|Unemployment rate|   |||7.3|%||||||1538136000000|
@@ -1499,13 +1496,13 @@
 2018-09-28 14:00|USD|Revised UoM Inflation Expectations|   ||||%|||||0|1538143200000|
 2018-09-28 15:00|COP|National Jobless Rate|   |||9.7|%||||||1538146800000|
 2018-09-28 17:00|USD|U.S. Baker Hughes Oil Rig Count|   |||||||||0|1538154000000|
-2018-09-28 19:30|AUD|CFTC AUD speculative net positions|   ||||K|||||-1||
-2018-09-28 19:30|EUR|CFTC EUR speculative net positions|   ||||K|||||2||
-2018-09-28 19:30|GBP|CFTC GBP speculative net positions|   ||||K|||||0||
-2018-09-28 19:30|JPY|CFTC JPY speculative net positions|   ||||K|||||1||
-2018-09-28 19:30|USD|CFTC Crude Oil speculative net positions|   ||||K|||||-3||
-2018-09-28 19:30|USD|CFTC Gold speculative net positions|   ||||K|||||0||
-2018-09-28 19:30|USD|CFTC S&P 500 speculative net positions|   ||||K|||||2||
+2018-09-28 19:30|AUD|CFTC AUD speculative net positions|   ||||K|||||-1|1538163000000|
+2018-09-28 19:30|EUR|CFTC EUR speculative net positions|   ||||K|||||2|1538163000000|
+2018-09-28 19:30|GBP|CFTC GBP speculative net positions|   ||||K|||||0|1538163000000|
+2018-09-28 19:30|JPY|CFTC JPY speculative net positions|   ||||K|||||1|1538163000000|
+2018-09-28 19:30|USD|CFTC Crude Oil speculative net positions|   ||||K|||||-3|1538163000000|
+2018-09-28 19:30|USD|CFTC Gold speculative net positions|   ||||K|||||0|1538163000000|
+2018-09-28 19:30|USD|CFTC S&P 500 speculative net positions|   ||||K|||||2|1538163000000|
 2018-09-29 06:45|EUR|Consumer Spending France|MoM|||0.1|%|||||3|1538203500000|
 2018-09-29 14:00|NZD|New Zealand general election|   ||||||||||1538229600000|
 2018-09-30 00:00|AUD|AiG Performance of Construction Index|   ||||P|||||0|1538265600000|
@@ -1514,10 +1511,8 @@
 2018-09-30 05:00|JPY|BOJ Core CPI|YoY||||%|||||0|1538283600000|
 2018-09-30 21:00|KRW|Manufacturing BSI Index|   |||76.0|||||||1538341200000|
 2018-09-30 22:30|AUD|AiG Performance of Mfg Index|   |||56.7|P|||||-3|1538346600000|
-2018-09-30 23:50|JPY|Tankan Big Manufacturing Outlook Index|   |||21.0||||||0||
-2018-09-30 23:50|JPY|Tankan Large All Industry Capex|   |||13.6|%|||||0||
-2018-09-30 23:50|JPY|Tankan Large Manufacturers Index|   |||21.0||||||0||
-2018-09-30 23:50|JPY|Tankan Large Non-Manufacturers Diffusion Index|   |||21.0||||||1||
-2018-09-30 23:50|JPY|Tankan Large Non-Manufacturers Index|   |||24.0||||||0||
-2018-09-30 23:50|JPY|Tankan Large Manufacturers Index|   |||||||||0|1538351400000|
-2018-09-30 23:50|JPY|Tankan Large Non-Manufacturers Index|   |||||||||0|1538351400000|
+2018-09-30 23:50|JPY|Tankan Big Manufacturing Outlook Index|   |||21.0||||||0|1538351400000|
+2018-09-30 23:50|JPY|Tankan Large All Industry Capex|   |||13.6|%|||||0|1538351400000|
+2018-09-30 23:50|JPY|Tankan Large Manufacturers Index|   |||21.0||||||0|1538351400000|
+2018-09-30 23:50|JPY|Tankan Large Non-Manufacturers Diffusion Index|   |||21.0||||||1|1538351400000|
+2018-09-30 23:50|JPY|Tankan Large Non-Manufacturers Index|   |||24.0||||||0|1538351400000|
