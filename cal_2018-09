@@ -639,6 +639,7 @@
 2018-09-11 00:00|GBP|30-y Bond Auction|   |||1.94|%|||||0|1536624000000|
 2018-09-11 00:00|GBP|30-y Bond Auction|day|||1.94|||||||1536624000000|
 2018-09-11 00:00|IDR|Muharram|   ||||||||||1536624000000|
+2018-09-11 00:00|INR|Trade Deficit Government|   ||17.25|18.02|B||||-120%||1536624000000|
 2018-09-11 01:30|AUD|National Australia Banks Business Conditions|   |15.0|15.0|12.0|||100%|-1944%||3|1536629400000|
 2018-09-11 01:30|AUD|National Australia Banks Business Confidence|   |||||||||2|1536629400000|
 2018-09-11 02:00|CNY|M2 Money Supply|YoY||8.5|8.5|%||||0%||1536631200000|
@@ -647,9 +648,9 @@
 2018-09-11 03:45|JPY|30-y Bond Auction|   |||0.85||||||0|1536637500000|
 2018-09-11 03:45|JPY|30-Year JGB Auction|   |0.84||0.85|%||-25%|72%||0|1536637500000|
 2018-09-11 04:00|JPY|30-y Bond Auction|   |0.84||0.85|||-20%|55%||0|1536638400000|
-2018-09-11 04:30|JPY|Tertiary Industry Activity Index|MoM|0.1|0.1|-0.533|%|0%|58%|-145%|66%|0|1536640200000|
+2018-09-11 04:30|JPY|Tertiary Industry Activity Index|MoM|0.1|0.1|-0.6|%|0%|60%|-145%|66%|0|1536640200000|
 2018-09-11 05:30|EUR|French Final Private Payrolls|QoQ|||0.2|%|||||2|1536643800000|
-2018-09-11 05:30|EUR|French Non-Farm Payrolls|QoQ||0.2|0.2|%||||0%|0|1536643800000|
+2018-09-11 05:30|EUR|French Non-Farm Payrolls|QoQ|0.1|0.2|0.2|%|-100%|-57%|383%|0%|0|1536643800000|
 2018-09-11 06:00|JPY|Prelim Machine Tool Orders|YoY|||13.033|%|||||1|1536645600000|
 2018-09-11 06:00|RON|Consumer Price Index|   ||4.8|4.6|%||||80%||1536645600000|
 2018-09-11 06:00|RON|Industrial Production|MoM|||1.6|%||||||1536645600000|
@@ -658,33 +659,35 @@
 2018-09-11 07:00|HUF|Core Consumer Price Index|YoY|||2.4|%||||||1536649200000|
 2018-09-11 08:30|CNY|FDI - Foreign Direct Investment (YTD)|YoY|||2.3|%||||||1536654600000|
 2018-09-11 08:30|GBP|Average Earnings excluding Bonus|QoQ||2.8|2.7|%||||0%|0|1536654600000|
-2018-09-11 08:30|GBP|Average Earnings including Bonus|QoQ||2.433|2.4|%||||33%|0|1536654600000|
-2018-09-11 08:30|GBP|Claimant Count Change|   ||6.833|6.2|K||||3%|2|1536654600000|
+2018-09-11 08:30|GBP|Average Earnings including Bonus|QoQ||2.4|2.4|%||||33%|0|1536654600000|
+2018-09-11 08:30|GBP|Claimant Count Change|   ||8.967|6.2|K||||3%|2|1536654600000|
 2018-09-11 08:30|GBP|Claimant Count Rate|   |||2.5|%|||||0|1536654600000|
 2018-09-11 08:30|GBP|Employment Change 3M/3M|MoM||27.0|42.0|K||||-24%||1536654600000|
 2018-09-11 08:30|GBP|Goods Trade Balance|   ||||B|||||1|1536654600000|
-2018-09-11 08:30|GBP|ILO Unemployment Rate|QoQ||4.067|4.0|%||||-133%|2|1536654600000|
+2018-09-11 08:30|GBP|ILO Unemployment Rate|QoQ||4.0|4.0|%||||-133%|2|1536654600000|
 2018-09-11 08:30|GBP|Total Trade Balance|   ||||B|||||0|1536654600000|
 2018-09-11 08:30|GBP|Trade Balance; non-EU|   ||||B|||||-3|1536654600000|
 2018-09-11 08:40|EUR|12-Month Letras Auction Spain|   |||-0.362|%|||||-1|1536655200000|
 2018-09-11 08:40|EUR|6-Month Letras Auction Spain|   |||-0.419|%|||||0|1536655200000|
 2018-09-11 08:40|EUR|Spanish 12-Month Letras Auction|   |||-0.362|%|||||-1|1536655200000|
+2018-09-11 08:40|EUR|Spanish 6-Month Letras Auction|   |||-0.419|%|||||2|1536655200000|
 2018-09-11 08:40|GBP|ILO Unemployment Rate|QoQ||4.0|4.0|%||||0%|2|1536655200000|
 2018-09-11 09:00|EUR|Employment Change|QoQ||0.4|0.4|%||||0%|2|1536656400000|
 2018-09-11 09:00|EUR|Employment Change|YoY||1.4|1.4|%||||0%|2|1536656400000|
 2018-09-11 09:00|EUR|Spanish 6-Month Letras Auction|   |||-0.419|%|||||2|1536656400000|
 2018-09-11 09:00|EUR|ZEW Survey - Current Situation Germany|   ||72.0|72.6|||||-15%|0|1536656400000|
-2018-09-11 09:00|EUR|ZEW Survey - Economic Sentiment|   ||-10.9|-11.1|||||-96%|0|1536656400000|
-2018-09-11 09:00|EUR|ZEW Survey - Economic Sentiment Germany|   ||-13.867|-13.7|||||-6%|3|1536656400000|
+2018-09-11 09:00|EUR|ZEW Survey - Economic Sentiment|   ||-10.9|-11.1|||||-61%|0|1536656400000|
+2018-09-11 09:00|EUR|ZEW Survey - Economic Sentiment Germany|   ||-13.833|-13.7|||||-6%|3|1536656400000|
 2018-09-11 10:00|EUR|Consumer Price Index Portugal|YoY||||%|||||2|1536660000000|
 2018-09-11 10:00|EUR|Consumer Price Index Portugal|MoM||||%|||||0|1536660000000|
 2018-09-11 10:00|EUR|ZEW Survey - Economic Sentiment|   ||-10.9|-11.1|||||8%|0|1536660000000|
-2018-09-11 10:00|USD|NFIB Business Optimism Index|   ||108.15|107.9|P||||35%|-8|1536660000000|
+2018-09-11 10:00|USD|NFIB Business Optimism Index|   ||108.167|107.9|P||||37%|-8|1536660000000|
+2018-09-11 10:35|GBP|30-Year Treasury Gilt Auction|   |||1.937|%|||||0|1536662100000|
 2018-09-11 10:35|USD|NFIB Business Optimism Index|   ||108.2|107.9|P||||42%|-8|1536662100000|
 2018-09-11 11:00|GBP|30-Year Treasury Gilt Auction|   |||1.937|%|||||0|1536663600000|
-2018-09-11 11:00|ZAR|Manufacturing Production|MoM||0.4|0.3|%||||7%||1536663600000|
+2018-09-11 11:00|ZAR|Manufacturing Production|MoM||1.0|0.3|%||||7%||1536663600000|
 2018-09-11 11:00|ZAR|Manufacturing Production Index|YoY|||0.7|%||||||1536663600000|
-2018-09-11 12:15|CAD|Housing Starts s.a|YoY||214.167|206.2|K||||318%|1|1536668100000|
+2018-09-11 12:15|CAD|Housing Starts s.a|YoY||211.2|206.2|K||||318%|1|1536668100000|
 2018-09-11 12:15|ZAR|Manufacturing Production|MoM||1.0|0.3|%||||50%||1536668100000|
 2018-09-11 12:55|CAD|Housing Starts s.a|YoY||210.3|206.3|K||||114%|1|1536670500000|
 2018-09-11 12:55|USD|Redbook index|YoY|||6.5|%|||||-6|1536670500000|
@@ -699,23 +702,26 @@
 2018-09-11 14:00|RUB|Trade Balance|   ||14.4|15.56|B||||-82%||1536674400000|
 2018-09-11 14:00|USD|Final Wholesale Inventories|MoM||0.7|0.7|%||||-133%|1|1536674400000|
 2018-09-11 14:00|USD|JOLTS Job Openings|   ||6.669|6.661|M||||-6%|2|1536674400000|
-2018-09-11 14:00|USD|Prelim Wholesale Inventories|MoM||0.2|0.7|%||||-166%|0|1536674400000|
+2018-09-11 14:00|USD|Prelim Wholesale Inventories|MoM||0.7|0.7|%||||-166%|0|1536674400000|
 2018-09-11 15:30|USD|4-Week Bill Auction|   |||1.97|%|||||4|1536679800000|
 2018-09-11 15:30|USD|52-Week Bill Auction|   |||2.365|%|||||0|1536679800000|
 2018-09-11 15:30|USD|Prelim Wholesale Inventories|MoM||0.7|0.7|%||||0%|0|1536679800000|
 2018-09-11 17:00|USD|3-Year Note Auction|   |||2.765|%|||||0|1536685200000|
 2018-09-11 17:00|USD|52-Week Bill Auction|   |||2.365|%|||||0|1536685200000|
 2018-09-11 20:30|USD|3-Year Note Auction|   |||2.765|%|||||0|1536697800000|
+2018-09-11 20:30|USD|API Weekly Crude Oil Stock|   |||-1.2|M|||||2|1536697800000|
 2018-09-11 23:00|KRW|Unemployment Rate|   |||3.8|%||||||1536706800000|
 2018-09-11 23:00|USD|API Weekly Crude Oil Stock|   |||-1.2|M|||||2|1536706800000|
-2018-09-11 23:50|JPY|BSI Large Manufacturing Conditions|   ||8.0|-3.2|||||562%|1|1536709800000|
+2018-09-11 23:50|JPY|BSI Large Manufacturing Conditions|   ||8.0|-3.2|||||608%|1|1536709800000|
 2018-09-11 23:50|KRW|Unemployment Rate|   |||3.8|%||||||1536709800000|
-2018-09-12 00:00|CNY|FDI - Foreign Direct Investment (YTD)|YoY||||%||||||1536710400000|
+2018-09-12 00:00|CNY|FDI - Foreign Direct Investment (YTD)|YoY|||2.3|%||||||1536710400000|
 2018-09-12 00:00|EUR|10-y Bond Auction Germany|   ||||%|||||4|1536710400000|
 2018-09-12 00:00|EUR|30-y Bond Auction Germany|   |||0.94|%|||||1|1536710400000|
 2018-09-12 00:00|EUR|German 30-y Bond Auction|day|||0.94||||||0|1536710400000|
 2018-09-12 00:00|USD|10-Year Note Auction|   |||2.96|%|||||2|1536710400000|
 2018-09-12 00:30|AUD|Westpac Consumer Confidence|   |||-2.3|%|||||4|1536712200000|
+2018-09-12 02:00|CNY|M2 Money Supply|YoY||8.5|8.5|%||||0%||1536717600000|
+2018-09-12 02:00|CNY|New Loans|   ||1300.0|1450.0|B||||-61%||1536717600000|
 2018-09-12 03:00|KRW|Money Supply Growth|   |||6.6|%||||||1536721200000|
 2018-09-12 04:30|JPY|Tertiary Industry Activity Index|MoM|||-0.5|%|||||0|1536726600000|
 2018-09-12 05:00|SGD|Retail Sales|YoY|||2.0|%||||||1536728400000|
