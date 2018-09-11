@@ -1,23 +1,23 @@
 2018-10-01 00:00|AUD|Investing.com AUD/USD Index|   ||||P|||||5|1538352000000|
 2018-10-01 00:00|AUD|Building Permits|MoM||||%|||||-5|1538352000000|
 2018-10-01 00:00|CNY|Caixin Flash Manufacturing PMI|   ||||P||||||1538352000000|
-2018-10-01 00:00|EUR|Unemployment Austria|   |||288.2|K|||||2||
-2018-10-01 00:00|EUR|Unemployment Rate|   |||8.2|%|||||2||
-2018-10-01 00:00|EUR|Unemployment Rate Austria|   |||7.0|%|||||-2||
 2018-10-01 00:00|EUR|Markit Manufacturing PMI Italy|   ||||P|||||2|1538352000000|
+2018-10-01 00:00|EUR|Unemployment Austria|   |||288.2|K|||||2|1538352000000|
+2018-10-01 00:00|EUR|Unemployment Rate|   |||8.2|%|||||2|1538352000000|
+2018-10-01 00:00|EUR|Unemployment Rate Austria|   |||7.0|%|||||-2|1538352000000|
 2018-10-01 00:00|HKD|M3 Money Supply|YoY||||%|||||1|1538352000000|
-2018-10-01 00:00|KRW|Trade Balance|   ||||B|||||||
-2018-10-01 00:00|TRY|Exports|   |||12.4|B|||||||
+2018-10-01 00:00|KRW|Trade Balance|   ||||B||||||1538352000000|
+2018-10-01 00:00|TRY|Exports|   |||12.4|B||||||1538352000000|
 2018-10-01 00:00|USD|Total Vehicle Sales|day||||M|||||0|1538352000000|
 2018-10-01 00:30|AUD|Building Approvals|MoM||||%|||||0|1538353800000|
 2018-10-01 00:30|AUD|Building Permits|YoY||||%|||||-1|1538353800000|
 2018-10-01 00:30|JPY|Nikkei Manufacturing PMI|   ||||P|||||0|1538353800000|
 2018-10-01 00:30|KRW|Nikkei Markit Manufacturing PMI|   |||49.9|P||||||1538353800000|
 2018-10-01 01:00|AUD|TD Securities Inflation|MoM||||%|||||3|1538355600000|
-2018-10-01 04:00|IDR|Core Inflation|YoY|||2.9|%|||||||
-2018-10-01 04:00|IDR|Inflation|MoM|||-0.05|%|||||||
-2018-10-01 04:00|IDR|Inflation|YoY|||3.2|%|||||||
-2018-10-01 05:00|EUR|Purchasing Manager Index Manufacturing Ireland|   |||57.5||||||2||
+2018-10-01 04:00|IDR|Core Inflation|YoY|||2.9|%||||||1538366400000|
+2018-10-01 04:00|IDR|Inflation|MoM|||-0.05|%||||||1538366400000|
+2018-10-01 04:00|IDR|Inflation|YoY|||3.2|%||||||1538366400000|
+2018-10-01 05:00|EUR|Purchasing Manager Index Manufacturing Ireland|   |||57.5||||||2|1538370000000|
 2018-10-01 06:00|EUR|Retail Sales Germany|MoM|||-0.4|%|||||-1|1538373600000|
 2018-10-01 06:00|EUR|Retail Sales Germany|YoY|||0.8|%|||||1|1538373600000|
 2018-10-01 06:00|RUB|Markit Manufacturing PMI|   |||48.9|P||||||1538373600000|
@@ -32,10 +32,8 @@
 2018-10-01 07:30|CHF|SVME - Purchasing Managers Index|   |||64.8|P|||||9|1538379000000|
 2018-10-01 07:30|CZK|Markit PMI|   |||54.9|P||||||1538379000000|
 2018-10-01 07:45|EUR|Markit Manufacturing PMI Italy|   |||50.1|P|||||2|1538379900000|
-2018-10-01 07:50|EUR|Markit Manufacturing PMI France|   ||||P|||||4||
 2018-10-01 07:50|EUR|Markit Manufacturing PMI France|   ||||P|||||4|1538380200000|
 2018-10-01 07:55|EUR|Markit Manufacturing PMI Germany|   ||||P|||||3|1538380500000|
-2018-10-01 08:00|EUR|Markit Manufacturing PMI|   ||||P|||||4||
 2018-10-01 08:00|EUR|Italian Monthly Unemployment Rate|   |||10.4|%|||||1|1538380800000|
 2018-10-01 08:00|EUR|Markit Manufacturing PMI|   ||||P|||||4|1538380800000|
 2018-10-01 08:00|EUR|Markit Manufacturing PMI Greece|   |||53.9|P|||||0|1538380800000|
@@ -48,16 +46,16 @@
 2018-10-01 09:00|EUR|Unemployment Rate|   ||||%|||||2|1538384400000|
 2018-10-01 09:30|ZAR|Business Confidence Index|   ||||||||||1538386200000|
 2018-10-01 12:00|CZK|Budget Balance|   |||14.77|B||||||1538395200000|
-2018-10-01 12:00|ZAR|Total New Vehicle Sales|   |||47.964||||||||
-2018-10-01 13:00|BRL|Markit Manufacturing PMI|   |||51.1|P|||||||
+2018-10-01 12:00|ZAR|Total New Vehicle Sales|   |||47.964|||||||1538395200000|
+2018-10-01 13:00|BRL|Markit Manufacturing PMI|   |||51.1|P||||||1538398800000|
 2018-10-01 13:30|CAD|Markit Manufacturing PMI|   |||56.8|P|||||8|1538400600000|
 2018-10-01 13:45|USD|Markit Manufacturing PMI|   ||||P|||||2|1538401500000|
 2018-10-01 14:00|USD|Construction Spending|MoM|||0.1|%|||||0|1538402400000|
 2018-10-01 14:00|USD|ISM Manufacturing PMI|   |||61.3|P|||||-5|1538402400000|
 2018-10-01 14:00|USD|ISM Manufacturing Prices|   |||72.1|P|||||5|1538402400000|
-2018-10-01 15:30|USD|3-Month Bill Auction|   ||||%|||||1||
-2018-10-01 15:30|USD|6-Month Bill Auction|   ||||%|||||-1||
-2018-10-01 19:00|BRL|Trade Balance|   |||3.775|B|||||||
+2018-10-01 15:30|USD|3-Month Bill Auction|   ||||%|||||1|1538407800000|
+2018-10-01 15:30|USD|6-Month Bill Auction|   ||||%|||||-1|1538407800000|
+2018-10-01 19:00|BRL|Trade Balance|   |||3.775|B||||||1538420400000|
 2018-10-01 20:00|ARS|Tax Revenue|MoM|||293.4|B||||||1538424000000|
 2018-10-01 21:00|KRW|FX Reserves - USD|   |||401.13|B||||||1538427600000|
 2018-10-01 21:00|NZD|NZIER Business Confidence|   ||||%|||||0|1538427600000|
