@@ -651,11 +651,12 @@
 2018-09-11 04:30|JPY|Tertiary Industry Activity Index|MoM|0.1|0.1|-0.6|%|0%|60%|-145%|66%|0|1536640200000|
 2018-09-11 05:30|EUR|French Final Private Payrolls|QoQ|||0.2|%|||||2|1536643800000|
 2018-09-11 05:30|EUR|French Non-Farm Payrolls|QoQ|0.1|0.2|0.2|%|-100%|-57%|383%|0%|0|1536643800000|
+2018-09-11 05:58|JPY|Prelim Machine Tool Orders|YoY|5.3||13.1|%||-121%|72%||1|1536645480000|
 2018-09-11 06:00|JPY|Prelim Machine Tool Orders|YoY|||13.033|%|||||1|1536645600000|
 2018-09-11 06:00|RON|Consumer Price Index|   ||4.8|4.6|%||||80%||1536645600000|
 2018-09-11 06:00|RON|Industrial Production|MoM|||1.6|%||||||1536645600000|
 2018-09-11 07:00|EUR|Industrial Output Slovakia|YoY|||2.1|%|||||-2|1536649200000|
-2018-09-11 07:00|HUF|Consumer Price Index|YoY||3.2|3.4|%||||-100%||1536649200000|
+2018-09-11 07:00|HUF|Consumer Price Index|YoY||3.3|3.4|%||||-100%||1536649200000|
 2018-09-11 07:00|HUF|Core Consumer Price Index|YoY|||2.4|%||||||1536649200000|
 2018-09-11 08:30|CNY|FDI - Foreign Direct Investment (YTD)|YoY|||2.3|%||||||1536654600000|
 2018-09-11 08:30|GBP|Average Earnings excluding Bonus|QoQ||2.8|2.7|%||||0%|0|1536654600000|
@@ -686,16 +687,16 @@
 2018-09-11 10:35|USD|NFIB Business Optimism Index|   ||108.2|107.9|P||||42%|-8|1536662100000|
 2018-09-11 11:00|GBP|30-Year Treasury Gilt Auction|   |||1.937|%|||||0|1536663600000|
 2018-09-11 11:00|ZAR|Manufacturing Production|MoM||1.0|0.3|%||||7%||1536663600000|
-2018-09-11 11:00|ZAR|Manufacturing Production Index|YoY|||0.7|%||||||1536663600000|
+2018-09-11 11:00|ZAR|Manufacturing Production Index|YoY||1.1|0.7|%||||80%||1536663600000|
 2018-09-11 12:15|CAD|Housing Starts s.a|YoY||211.2|206.2|K||||318%|1|1536668100000|
 2018-09-11 12:15|ZAR|Manufacturing Production|MoM||1.0|0.3|%||||50%||1536668100000|
 2018-09-11 12:55|CAD|Housing Starts s.a|YoY||210.3|206.3|K||||114%|1|1536670500000|
 2018-09-11 12:55|USD|Redbook index|YoY|||6.5|%|||||-6|1536670500000|
 2018-09-11 12:55|USD|Redbook index|MoM|||0.8|%|||||0|1536670500000|
 2018-09-11 13:00|EUR|French Non-Farm Payrolls|QoQ||||%|||||0|1536670800000|
-2018-09-11 13:00|MXN|Industrial Output|YoY|||0.2|%||||||1536670800000|
-2018-09-11 13:00|MXN|Industrial Output|MoM|||0.3|%||||||1536670800000|
-2018-09-11 13:00|RUB|Foreign Trade|   |||15.555|B||||||1536670800000|
+2018-09-11 13:00|MXN|Industrial Output|YoY||0.75|0.2|%||||50%||1536670800000|
+2018-09-11 13:00|MXN|Industrial Output|MoM||-1.0|0.3|%||||-162%||1536670800000|
+2018-09-11 13:00|RUB|Foreign Trade|   ||14.4|15.555|B||||-113%||1536670800000|
 2018-09-11 13:00|RUB|Trade Balance|   ||14.4|15.56|B||||-82%||1536670800000|
 2018-09-11 13:00|USD|Redbook index|YoY|||6.5|%|||||-6|1536670800000|
 2018-09-11 13:00|USD|Redbook index|MoM|||0.8|%|||||0|1536670800000|
@@ -734,9 +735,9 @@
 2018-09-12 07:00|EUR|Employment Change|QoQ|||0.4|%|||||2|1536735600000|
 2018-09-12 07:00|EUR|Employment Change|YoY|||1.4|%|||||2|1536735600000|
 2018-09-12 07:00|EUR|Spanish Flash CPI|YoY||2.2|2.2|%||||0%|4|1536735600000|
-2018-09-12 07:00|EUR|Spanish HICP|MoM||1.1|0.1|%||||-17%|0|1536735600000|
+2018-09-12 07:00|EUR|Spanish HICP|MoM||0.1|0.1|%||||-17%|0|1536735600000|
 2018-09-12 07:00|EUR|Spanish HICP|YoY||2.2|2.2|%||||25%|1|1536735600000|
-2018-09-12 08:00|EUR|Industrial Output w.d.a Italy|YoY||1.45|1.7|%||||-28%|3|1536739200000|
+2018-09-12 08:00|EUR|Industrial Output w.d.a Italy|YoY||1.4|1.7|%||||-28%|3|1536739200000|
 2018-09-12 08:00|EUR|Italian Industrial Production|MoM||-0.4|0.5|%||||-11%|1|1536739200000|
 2018-09-12 08:30|GBP|Average Earnings excluding Bonus|QoQ||||%|||||0|1536741000000|
 2018-09-12 08:30|GBP|Average Earnings including Bonus|QoQ||||%|||||0|1536741000000|
@@ -746,16 +747,16 @@
 2018-09-12 09:00|EUR|Employment Change|QoQ|||0.4|%|||||0|1536742800000|
 2018-09-12 09:00|EUR|Employment Change|QoQ|||0.4|%|||||2|1536742800000|
 2018-09-12 09:00|EUR|Employment Change|YoY|||1.4|%|||||2|1536742800000|
-2018-09-12 09:00|EUR|Industrial Production s.a.|MoM||0.15|-0.7|%||||121%|4|1536742800000|
-2018-09-12 09:00|EUR|Industrial Production w.d.a.|YoY||1.7|2.5|%||||-114%|-1|1536742800000|
+2018-09-12 09:00|EUR|Industrial Production s.a.|MoM||-0.5|-0.7|%||||121%|4|1536742800000|
+2018-09-12 09:00|EUR|Industrial Production w.d.a.|YoY||1.0|2.5|%||||-114%|-1|1536742800000|
 2018-09-12 09:00|EUR|Italian Quarterly Unemployment Rate|   ||10.8|11.1|%||||165%|0|1536742800000|
 2018-09-12 09:30|EUR|Employment Change|QoQ|||0.4|%|||||2|1536744600000|
 2018-09-12 09:30|USD|Feds Bullard|   ||||||||||1536744600000|
 2018-09-12 09:30|ZAR|Business Confidence Index|   |||94.7|||||||1536744600000|
 2018-09-12 09:35|EUR|German 30-Year Bund Auction|   |||0.94|%|||||3|1536744900000|
 2018-09-12 09:45|EUR|Italian 12-Month BOT Auction|   |||0.679|%|||||2|1536745500000|
-2018-09-12 10:00|EUR|Consumer Price Index Portugal|YoY||1.2|1.6|%||||-400%|2|1536746400000|
-2018-09-12 10:00|EUR|Consumer Price Index Portugal|MoM||-0.3|-0.6|%||||75%|0|1536746400000|
+2018-09-12 10:00|EUR|Consumer Price Index Portugal|YoY|||1.6|%||||-400%|2|1536746400000|
+2018-09-12 10:00|EUR|Consumer Price Index Portugal|MoM|||-0.6|%||||75%|0|1536746400000|
 2018-09-12 11:00|USD|MBA 30-Year Mortgage Rate|   |||4.8|%|||||0|1536750000000|
 2018-09-12 11:00|USD|MBA Mortgage Applications (WoW)|   |||-0.1|%|||||3|1536750000000|
 2018-09-12 11:00|USD|MBA Purchase Index|   |||231.4||||||3|1536750000000|
@@ -770,12 +771,12 @@
 2018-09-12 12:00|INR|CPI|YoY||3.86|4.17|%||||178%||1536753600000|
 2018-09-12 12:00|INR|Industrial Production|YoY|||7.0|%||||||1536753600000|
 2018-09-12 12:00|INR|Manufacturing Output|   |||6.9|%||||||1536753600000|
-2018-09-12 12:30|CAD|Capacity Utilization Rate|   ||86.8|86.1|%||||140%|4|1536755400000|
+2018-09-12 12:30|CAD|Capacity Utilization Rate|   ||86.9|86.1|%||||140%|4|1536755400000|
 2018-09-12 12:30|USD|Core PPI|MoM||0.2|0.1|%||||50%|0|1536755400000|
 2018-09-12 12:30|USD|Core PPI|YoY||2.7|2.7|%||||100%|2|1536755400000|
 2018-09-12 12:30|USD|Producer Price Index|YoY||3.2|3.3|%||||-50%|0|1536755400000|
 2018-09-12 12:30|USD|Producer Price Index ex Food & Energy|MoM||0.2|0.025|%||||14%|-1|1536755400000|
-2018-09-12 12:30|USD|Producer Price Index ex Food & Energy|YoY||2.8|2.7|%||||50%|1|1536755400000|
+2018-09-12 12:30|USD|Producer Price Index ex Food & Energy|YoY||2.7|2.7|%||||50%|1|1536755400000|
 2018-09-12 14:30|USD|Crude Oil Imports|   |||0.5|M|||||5|1536762600000|
 2018-09-12 14:30|USD|Cushing Crude Oil Inventories|   |||0.549|M|||||4|1536762600000|
 2018-09-12 14:30|USD|Distillate Fuel Production|   |||0.26|M|||||3|1536762600000|
@@ -797,12 +798,12 @@
 2018-09-12 23:01|GBP|RICS Housing Price Balance|   ||2.0|4.0|%||||-100%|0|1536793260000|
 2018-09-12 23:50|JPY|Core Machinery Orders|YoY||4.7|0.3|%||||255%|0|1536796200000|
 2018-09-12 23:50|JPY|Core Machinery Orders|MoM||5.8|-8.8|%||||100%|0|1536796200000|
-2018-09-12 23:50|JPY|Domestic Corporate Goods Price Index|MoM||0.2|0.5|%||||-100%|0|1536796200000|
-2018-09-12 23:50|JPY|Domestic Corporate Goods Price Index|YoY||3.0|3.1|%||||-66%|0|1536796200000|
+2018-09-12 23:50|JPY|Domestic Corporate Goods Price Index|MoM||0.1|0.5|%||||-100%|0|1536796200000|
+2018-09-12 23:50|JPY|Domestic Corporate Goods Price Index|YoY||3.1|3.1|%||||-66%|0|1536796200000|
 2018-09-12 23:50|JPY|Foreign bond investment|   |||543.4|B|||||0|1536796200000|
 2018-09-12 23:50|JPY|Foreign Investments in Japanese Stocks|   |||-4.6|B|||||0|1536796200000|
-2018-09-12 23:50|JPY|Machinery Orders|MoM||-1.3|-8.8|%||||110%|0|1536796200000|
-2018-09-12 23:50|JPY|Machinery Orders|YoY||9.5|0.3|%||||255%|1|1536796200000|
+2018-09-12 23:50|JPY|Machinery Orders|MoM||5.7|-8.8|%||||110%|0|1536796200000|
+2018-09-12 23:50|JPY|Machinery Orders|YoY||4.7|0.3|%||||255%|1|1536796200000|
 2018-09-13 00:00|EUR|EcoFin Meeting|   |||||||||0|1536796800000|
 2018-09-13 00:00|EUR|ECOFIN Meetings|day|||||||||0|1536796800000|
 2018-09-13 00:00|KRW|Trade Balance|   |||6.9|B||||||1536796800000|
@@ -857,7 +858,7 @@
 2018-09-13 11:00|GBP|BOE MPC Vote Unchanged|   |||||||||0|1536836400000|
 2018-09-13 11:00|GBP|Monetary Policy Summary|   ||||R||||||1536836400000|
 2018-09-13 11:00|GBP|MPC Asset Purchase Facility Votes|   ||0.0|4.5|||||-83%|1|1536836400000|
-2018-09-13 11:00|TRY|TCMB Interest Rate Decision|   |||17.75|%||||||1536836400000|
+2018-09-13 11:00|TRY|TCMB Interest Rate Decision|   ||22.0|17.75|%||||376%||1536836400000|
 2018-09-13 11:45|EUR|ECB Deposit Rate Decision|   ||-0.4|-0.4|%|||||0|1536839100000|
 2018-09-13 11:45|EUR|ECB Interest Rate Decision|   ||0.0|0.0|%||||0%|0|1536839100000|
 2018-09-13 11:45|EUR|Main Refinancing Rate|   ||0.0|0.0|%||||||1536839100000|
