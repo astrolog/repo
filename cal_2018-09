@@ -1034,7 +1034,7 @@
 2018-09-17 12:00|PLN|Corporate Sector Wages|   |||7.2|%||||||1537185600000|
 2018-09-17 12:30|CAD|Canadian portfolio investment in foreign securities|   |||11.29|B|||||3|1537187400000|
 2018-09-17 12:30|CAD|Foreign portfolio investment in Canadian securities|   |||11.55|B|||||8|1537187400000|
-2018-09-17 12:30|USD|NY Empire State Manufacturing Index|   |||25.6||||||-3|1537187400000|
+2018-09-17 12:30|USD|NY Empire State Manufacturing Index|   ||23.6|25.6|||||-90%|-3|1537187400000|
 2018-09-17 13:00|RUB|Industrial Production|YoY|||3.9|%||||||1537189200000|
 2018-09-17 13:30|GBP|CB Leading Index|MoM||||%|||||4|1537191000000|
 2018-09-17 14:30|AUD|CB Leading Index|MoM||||%|||||0|1537194600000|
@@ -1130,7 +1130,7 @@
 2018-09-19 12:30|USD|Building Permits|   ||||M|||||2|1537360200000|
 2018-09-19 12:30|USD|Building Permits Change|   ||1.31|1.406|%||||0%|6|1537360200000|
 2018-09-19 12:30|USD|Current Account|   ||-129.0|-124.1|B||||-59%|5|1537360200000|
-2018-09-19 12:30|USD|Housing Starts|MoM||1.22|1.168|M||||208%|-3|1537360200000|
+2018-09-19 12:30|USD|Housing Starts|MoM||1.228|1.168|M||||208%|-3|1537360200000|
 2018-09-19 12:30|USD|Housing Starts|   ||||M|||||-6|1537360200000|
 2018-09-19 12:30|USD|Housing Starts Change|   |||0.9|%|||||0|1537360200000|
 2018-09-19 13:00|CHF|SNB Quarterly Bulletin|   ||||R|||||0|1537362000000|
