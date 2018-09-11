@@ -1487,9 +1487,8 @@
 2018-09-28 07:00|TRY|Trade Balance|   |||-5.98|B||||||1538118000000|
 2018-09-28 07:30|SEK|Retail Sales|YoY|||-1.2|%||||||1538119800000|
 2018-09-28 07:30|SEK|Retail Sales|MoM|||-1.0|%||||||1538119800000|
-2018-09-28 07:55|EUR|Unemployment Change Germany|   |||-8.0|K|||||0||
-2018-09-28 07:55|EUR|Unemployment Rate s.a. Germany|   |||5.2|%|||||1||
-2018-09-28 07:55|EUR|Unemployment Change Germany|   ||||K|||||0|1538121300000|
+2018-09-28 07:55|EUR|Unemployment Change Germany|   |||-8.0|K|||||0|1538121300000|
+2018-09-28 07:55|EUR|Unemployment Rate s.a. Germany|   |||5.2|%|||||1|1538121300000|
 2018-09-28 08:00|EUR|Unemployment Change Germany|   |||-8.0|K|||||0|1538121600000|
 2018-09-28 08:00|EUR|Unemployment Rate s.a. Germany|   |||5.2|%|||||1|1538121600000|
 2018-09-28 08:30|GBP|Current Account|   |||-17.72|B|||||5|1538123400000|
